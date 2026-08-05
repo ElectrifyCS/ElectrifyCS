@@ -8,7 +8,7 @@
 
 * **ISC2 Certified in Cybersecurity (CC)** — *Earned 2023*
 * **CompTIA Security+** — *Earned 2024*
-* Currently pursuing a Bachelor's degree in University.
+* Currently pursuing a Bachelor's degree in Computer Science.
 
 ---
 

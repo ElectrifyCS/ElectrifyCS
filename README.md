@@ -4,6 +4,14 @@
 
 ---
 
+##  Certifications & Education
+
+* **ISC2 Certified in Cybersecurity (CC)** — *Earned 2023*
+* **CompTIA Security+** — *Earned 2024*
+* Currently pursuing a Bachelor's degree in University.
+
+---
+
 ##  Security & Malware Analysis Experience
 
 I specialize in analyzing malware behavior, execution flow, persistence mechanisms, and threat vectors across various malware categories:
@@ -21,8 +29,9 @@ I specialize in analyzing malware behavior, execution flow, persistence mechanis
 ##  Technical Skills & Languages
 
 * **Languages:** Python | C | C++ | TypeScript 
+* **Certifications:** ISC2 CC (2023) | CompTIA Security+ (2024)
 * **Security & Analysis:** Behavioral Malware Analysis, Reverse Engineering, Threat Detection, Metasploit, PowerShell Script Analysis
-* **Focus Areas:** Malware Engineering, Fraud Prevention Systems, Geofencing & Verification Logic.
+* **Focus Areas:** Malware Engineering, Fraud Prevention Systems, Geofencing & Verification Logic
 
 <!--
 **ElectrifyCS/ElectrifyCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

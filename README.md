@@ -1,4 +1,4 @@
-# # Hey there! I'm Melli or (ElectrifyCS)
+# Hey there! I'm Melli or (ElectrifyCS)
 
 **Security Analyst & Software Developer** building fail-secure, developer-first security solutions. Specialized in behavioral malware analysis, reverse engineering, and statistical threat detection.
 

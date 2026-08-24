@@ -8,7 +8,7 @@
 
 * **CompTIA Security+** — *Earned 2024*
 * **ISC2 Certified in Cybersecurity (CC)** — *Earned 2023*
-* **CompTIA CySA+** - *Earned 2026*
+* **CompTIA CySA+** — *Earned 2026*
 * **B.S. in Computer Science** — *In Progress*
 
 ---
